@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenceDv
 - 👀 I’m interested in PCs
 - 🌱 I’m currently learning java
-- 💞️ Im going to make a discord bot
+- 💞️ I’m going to make a discord bot
 - 📫 How to reach me: bence.dvorszki@utcreading.org.uk
 
 <!---
